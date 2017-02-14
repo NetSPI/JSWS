@@ -2,7 +2,7 @@
 
 Burp Extenstion to parse JavaScript WebService Proxies and create sample requests.
 
-Blog to be released soon.
+The blog explaining JSWS and the use case can be found at https://blog.netspi.com/attacking-javascript-web-service-proxies-burp/
 
 ## Download
 
